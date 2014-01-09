@@ -1,0 +1,7 @@
+1. Run 'node server.js' to create a webserver.
+
+2. Launch a browser.
+
+3. Run the Jasmine test suite at http://localhost:8888/runner.html
+
+4. Run the interactive code at http://localhost:8888
